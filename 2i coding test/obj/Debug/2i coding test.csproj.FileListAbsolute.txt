@@ -1,0 +1,9 @@
+D:\Program Files (x86)\Coding stuff\Repos\2i coding test\2i coding test\bin\Debug\2i coding test.exe.config
+D:\Program Files (x86)\Coding stuff\Repos\2i coding test\2i coding test\bin\Debug\2i coding test.exe
+D:\Program Files (x86)\Coding stuff\Repos\2i coding test\2i coding test\bin\Debug\2i coding test.pdb
+D:\Program Files (x86)\Coding stuff\Repos\2i coding test\2i coding test\obj\Debug\2i coding test.csprojAssemblyReference.cache
+D:\Program Files (x86)\Coding stuff\Repos\2i coding test\2i coding test\obj\Debug\_2i_coding_test.Properties.Resources.resources
+D:\Program Files (x86)\Coding stuff\Repos\2i coding test\2i coding test\obj\Debug\2i coding test.csproj.GenerateResource.cache
+D:\Program Files (x86)\Coding stuff\Repos\2i coding test\2i coding test\obj\Debug\2i coding test.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Coding stuff\Repos\2i coding test\2i coding test\obj\Debug\2i coding test.exe
+D:\Program Files (x86)\Coding stuff\Repos\2i coding test\2i coding test\obj\Debug\2i coding test.pdb
